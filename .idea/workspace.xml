@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5307776-736b-4bc4-ae46-f3e83d618cd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Glovo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/glovo_app/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/glovo_app/pagination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/glovo_app/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/glovo_app/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/glovo_app/translation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/glovo_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/nginx/Dockerfilr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glovo/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glovo/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/glovo/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glovo/glovo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/glovo/glovo/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

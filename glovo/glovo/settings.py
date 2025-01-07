@@ -13,7 +13,7 @@ from datetime import timedelta
 from pathlib import Path
 import os
 
-from django.conf.global_settings import STATIC_ROOT
+# from django.conf.global_settings import STATIC_ROOT
 from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
