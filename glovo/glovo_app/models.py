@@ -37,7 +37,7 @@ class Store(models.Model):
     def __str__(self):
         return self.store_name
 
-    def get_avg_ratings(self):
+    def get_avg_rating(self):
         ratings = self.store_reviews.all()
         if ratings.exists():
             return round(sum(i.rating for i in ratings) / ratings.count(), 1)

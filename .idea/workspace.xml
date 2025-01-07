@@ -7,7 +7,8 @@
     <list default="true" id="e5307776-736b-4bc4-ae46-f3e83d618cd9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/glovo/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/glovo/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glovo/glovo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/glovo/glovo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glovo/glovo_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/glovo/glovo_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glovo/glovo_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/glovo/glovo_app/serializers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
